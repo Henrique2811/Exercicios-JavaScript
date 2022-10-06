@@ -1,0 +1,22 @@
+table {
+    background-color: #ccc;
+    color: #ccc;
+    line-height: 30px;
+    margin: auto;
+}
+
+th {
+    background-color: #000033;
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+td {
+    background-color: #000066;
+    font-size: 0.8rem;
+}
+
+.par {
+    background-color: red;
+    color: #fff;
+}
